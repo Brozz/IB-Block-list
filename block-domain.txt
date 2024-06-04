@@ -1,4 +1,5 @@
 AliExpress.com
+*.temu.com
 Temu.com
 Wechat.com
 capcut.com
