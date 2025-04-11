@@ -355,3 +355,6 @@ cloud.iobit.com
 my.solarwinds.cloud
 uptodate.com
 bhosted.nl
+jsecoin.com
+www.jsecoin.com
+*.jsecoin.com
